@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+### Hi there, welcome to my Github. I'm Andres Angulo👋
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresanhi/)]([https://www.linkedin.com/in/opakholis)](https://www.linkedin.com/in/andresanhi/)
+  ![Gmail Badge](https://img.shields.io/badge/-andresanhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+  
+</div>  
 
 <!--
 **andresanhi/andresanhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
