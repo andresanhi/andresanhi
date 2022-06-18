@@ -8,52 +8,50 @@
   
 </div>  
 <div>
-
-#### 👽 Information
-
-Hi, I'm Andrés Angulo, a Backend Developer from Medellín, Colombia, with .NET experience. Currently I'm work as Software Developer at [@Satrack](https://www.satrack.com). I'm a creative problem solving enthusiast, curious about technology and passionate about development. I like to be self-taught and face challenges that technically and personally help me grow 
-
-### 👨🏻‍💻 Skills:
-
-#### 🎓 Learning:
-![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=) ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-
-#### 🛠️ Tech & Tools Preference:
-
-**Backend:**
   
-  ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=) ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=CSHARP&color=512BD4&logo=c-sharp&logoColor=FFFFFF&label=) 
+  ## 👽 Information
 
-**Database:** 
-  
- ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=) ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  Hi, I'm Andrés Angulo, a Backend Developer from Medellín, Colombia, with .NET experience. Currently I'm work as Software Developer at [@Satrack](https://www.satrack.com). I'm a creative problem solving enthusiast, curious about technology and passionate about development. I like to be self-taught and face challenges that technically and personally help me grow 
 
-**Methodology:** 
-  
-  ![Agile](https://img.shields.io/static/v1?style=for-the-badge&message=Agile&color=blue&logo=Scrum&logoColor=FFFFFF&label=) ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=009FDA&logo=Scrum&logoColor=FFFFFF&label=)
+  ## 👨🏻‍💻 Skills:
 
-**Mobile:**
   
-  ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+  
+  ### 🎓 Learning:
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+  
+  ### ⚡ Tech & Tools Preference:
+  
+  - **Backend:**
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET) ![C#](https://img.shields.io/badge/-CSHARP-512BD4?style=flat-square&logo=c-sharp) 
 
-**Version Control:**
-  
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=) ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+  - **Database:** 
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square&logo=Microsoft+SQL+Server) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=FFFFFF)
 
-**Tools:**
-  
-  ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=) ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=) ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=) 
+  - **Methodology:** 
+  ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square&logo=Scrum) ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=Scrum)
+   
+  - **Mobile:**
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 
-**Other technologies I know:**
+  - **Version Control:**
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github)
+ 
+  - **Tools:**
+  ![JSON](https://img.shields.io/badge/-JSON-F05032?style=flat-square&logo=JSON&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF) ![Visual Studio](https://img.shields.io/badge/-Visual+Studio-5C2D91?style=flat-square&logo=Visual+Studio&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/-VS+Code-5C2D91?style=flat-square&logo=Visual+Studio+Code&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=FFFFFF)
+
+  - **Other technologies I know:**
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=FFFFFF) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=JavaScript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=FFFFFF) ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=FFFFFF)
+
+  #### 👀 Soft Skills
+  ![Autonomy](https://img.shields.io/static/v1?style=for-the-badge&message=Autonomy&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![EffectiveCommunication](https://img.shields.io/static/v1?style=for-the-badge&message=Effective+Communication&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![Teamwork](https://img.shields.io/static/v1?style=for-the-badge&message=Team+Work&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![Flexibility](https://img.shields.io/static/v1?style=for-the-badge&message=Flexibility&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![Motivation](https://img.shields.io/static/v1?style=for-the-badge&message=Motivation&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![Autonomy](https://img.shields.io/static/v1?style=for-the-badge&message=Autonomy&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) 
+
+  ## 🔭 Active Repos
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresanhi&theme=blue-green&layout=compact" />
   
-  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=) ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=) ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=) ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=) ![Xamarin](https://img.shields.io/static/v1?style=for-the-badge&message=Xamarin&color=3498DB&logo=Xamarin&logoColor=FFFFFF&label=)
-  
-#### 🔭 Soft Skills
-![Autonomy](https://img.shields.io/static/v1?style=for-the-badge&message=Autonomy&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) ![EffectiveCommunication](https://img.shields.io/static/v1?style=for-the-badge&message=Effective+Communication&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)
-  
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andresanhi&repo=team-intl-insurance-team&theme=radical "Team-Insurance")](https://github.com/andresanhi/bookstore-api-nodejs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andresanhi&repo=Programming-paradigms-csharp&theme=highcontrast "Programming-Paradigms")](https://github.com/andresanhi/programming-paradigms-csharp)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andresanhi&repo=jwt-authentication-netcore&theme=blue-green "Team-Insurance")](https://github.com/andresanhi/bookstore-api-nodejs)  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andresanhi&repo=Programming-paradigms-csharp&theme=blue-green "Programming-Paradigms")](https://github.com/andresanhi/programming-paradigms-csharp)
+
 </div>
 
 <!--
