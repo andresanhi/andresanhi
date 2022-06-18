@@ -11,7 +11,7 @@
   
   ## 👽 Information
 
-  Hi, I'm Andrés Angulo, a Backend Developer from Medellín, Colombia, with .NET experience. Currently I'm work as Software Developer at [@Satrack](https://www.satrack.com). I'm a creative problem solving enthusiast, curious about technology and passionate about development. I like to be self-taught and face challenges that technically and personally help me grow 
+  Hi, I'm Andrés Angulo, Developer from Medellín, Colombia, with experience mainly in .NET and .NET Core. Currently I'm work as Software Developer at [@Satrack](https://www.satrack.com). I'm a creative problem solving enthusiast, curious about technology and passionate about development. I like to be self-taught and face challenges that technically and personally help me grow. 
 
   ## 👨🏻‍💻 Skills:
 
